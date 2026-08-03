@@ -1,0 +1,12 @@
+{
+	"name": "ls_AzureDatabricks",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-7405616772318099.19.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/4ec0eadc-85f0-4c86-aac9-9855ac40825e/resourceGroups/RG-Azure-Project/providers/Microsoft.Databricks/workspaces/dbw_spotify_project_east_us"
+		}
+	}
+}
